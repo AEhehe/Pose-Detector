@@ -1,6 +1,7 @@
 import cv2
 import mediapipe as mp
 import tkinter as tk
+import math
 from PIL import Image, ImageTk
 
 # Setup MediaPipe pose model
